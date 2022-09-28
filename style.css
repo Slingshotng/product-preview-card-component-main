@@ -100,7 +100,7 @@ button:hover {
     margin: 30px auto;
     display: block;
     background-color: white;
-    width: 85vw;
+    width: 90vw;
     /* max-width: 90%; */
     height: 95%;
     border-radius: 20px;
@@ -112,7 +112,7 @@ button:hover {
 
   .product2 {
     display: block;
-    width: 85vw;
+    width: 90vw;
     /* width: 90%; */
     /* width: 300px; */
 
