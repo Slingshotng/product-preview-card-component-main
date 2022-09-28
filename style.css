@@ -119,4 +119,10 @@ button:hover {
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
   }
+
+  p {
+    font-family: "Montserrat";
+    font-size: 12px;
+    line-height: 20px;
+  }
 }
