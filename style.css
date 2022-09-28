@@ -125,4 +125,10 @@ button:hover {
     font-size: 12px;
     line-height: 20px;
   }
+
+  .textdetails {
+    width: 300px;
+    padding: 30px 15px;
+    color: hsl(228, 12%, 48%);
+  }
 }
